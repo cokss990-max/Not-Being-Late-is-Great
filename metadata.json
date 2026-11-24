@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "Atomic schedule manager for 25-minute teaching blocks and 5-minute breaks with 1-minute alerts, plus daily appointments, to-dos, and a weekly agenda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
